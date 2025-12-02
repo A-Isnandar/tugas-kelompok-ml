@@ -7,6 +7,7 @@ Proyek ini bertujuan untuk melakukan Segmentasi Pelanggan (Customer Segmentation
 
 Berikut adalah struktur folder dari proyek ini:
 
+```text
 Tugas_Kelompok_Mall/
 ├── dataset/
 │ ├── Mall_Customers.csv (Dataset mentah sumber: Kaggle)
@@ -21,7 +22,7 @@ Tugas_Kelompok_Mall/
 ├── src/
 │ └── tugas_kelompok.py (Skrip Python utama untuk analisis & visualisasi)
 └── README.md (Dokumentasi proyek ini)
-
+```
 
 ## METODOLOGI PENGERJAAN
 
